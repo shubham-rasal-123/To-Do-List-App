@@ -7,12 +7,11 @@
     <link rel="shortcut icon" href="Microsoft_To-Do_icon.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TO-DO List App</title>
-
     <link rel="stylesheet" href="index.css" />
+
 </head>
 
 <body>
-
     <header>
         <h1>To-Do List App</h1>
         <form id="new-task-form">
@@ -23,27 +22,20 @@
     <main>
         <section class="task-list">
             <h2>Tasks</h2>
-
             <div id="tasks">
-
-                <!-- <div class="task">
-					<div class="content">
-						<input 
-							type="text" 
-							class="text" 
-							value="A new task"
-							readonly>
-					</div>
-					<div class="actions">
-						<button class="edit">Edit</button>
-						<button class="delete">Delete</button>
-					</div>
-				</div> -->
-
+                <div class="task">
+                    <div class="content">
+                        <label for="name">Wake up at 9:00 o'clock</label>
+                        <!-- <input type="text" id="name" class="text" value="A new task" readonly> -->
+                    </div>
+                    <div class="actions">
+                        <button class="edit" type="button">Edit</button>
+                        <button class="delete" type="button">Delete</button>
+                    </div>
+                </div>
             </div>
         </section>
     </main>
-
     <script src="index.js"></script>
 </body>
 
