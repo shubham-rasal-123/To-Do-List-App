@@ -1,21 +1,14 @@
-# TO-Do List App
-![image](https://cdn.pixabay.com/photo/2022/05/22/17/22/to-do-7214069_960_720.png)
+# To-Do List Application
 
-##  About
-A to-do list is just a list of things you have to-do. That means basically anything and everything can be on your to-do list—but just because you've written your to-dos down doesn't mean your to-do list is actually useful. Effectively tracking when your work is due can help you prioritize and get great work done.Using css,html and javascript.
 
-## 📝 instructions
-+ Capture everything. ...
-+ Lists, lists, and more lists. ...
-+ rganize your to-do list by workflow, 
-+ priority, or due date. ...
-+ Make it actionable. ...
-+ Verbs first, details later. ...
-+ Prioritize your to-dos. ...
-+ Always include a deadline. ...
-+ Break big work into smaller tasks.
+## Screenshot
+
+![alt text](images/Screenshot1.png)
+
+This project is a To-Do List app built with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) that helps users organize and manage tasks. The app provides a simple interface to add, edit, and delete tasks, with the ability to mark tasks as complete. It features a clean, responsive design that works across different devices, making it easy for users to track their progress. JavaScript handles task management, updates the display in real-time, and stores tasks locally so they persist even after a page refresh.
 
 ## 🛠 Built With
+
 + `CSS`
 + `HTML`
 + `Javascript`
